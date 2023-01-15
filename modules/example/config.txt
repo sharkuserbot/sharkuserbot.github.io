@@ -1,6 +1,5 @@
 example
 @MasterStroke777
 An example module.
-@MasterStroke777
 ▫️ <code>.example</code> \n▫️ <code>.example1</code> <b>[text]</b>
 http://sharkuserbot.github.io/modules/example/example.py
