@@ -1,4 +1,4 @@
-settings {
+settings = {
  'name': 'Quote',
  'description': 'Generate stickers from message.',
  'by': '@MasterStroke777',
