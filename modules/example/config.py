@@ -1,4 +1,4 @@
-settings = {
+{
     'name': 'example',
     'description': 'An example module.',
     'by': '@MasterStroke777',
