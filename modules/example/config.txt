@@ -3,3 +3,4 @@ example
 An example module.
 ▫️ <code>.example</code>|▫️ <code>.example1</code> <b>[text]</b>
 https://sharkuserbot.github.io/modules/example/example.py
+t.me/isPlaton
