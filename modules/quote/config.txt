@@ -1,5 +1,0 @@
-quote
-@MasterStroke777
-Generate stickers from message.
-▫️ <code>.q</code> <b>[reply]</b>
-http://sharkuserbot.github.io/modules/quote/quote.py
