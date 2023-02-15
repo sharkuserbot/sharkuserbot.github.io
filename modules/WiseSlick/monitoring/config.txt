@@ -1,0 +1,6 @@
+Monitoring
+@WiseSlick
+Monitoring your server.
+▫️ <code>.server</code>
+http://sharkuserbot.github.io/modules/WiseSlick/monitoring/monitoring.py
+t.me/WiseSlick

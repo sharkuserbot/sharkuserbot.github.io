@@ -1,0 +1,6 @@
+AFK
+@isPlaton
+Provides a message saying that you are unavailable.
+▫️ <code>.afk</code> <b>[reason]</b>|▫️ <code>.unafk</code>
+http://sharkuserbot.github.io/modules/MasterStroke777/afk/afk.py
+t.me/isPlaton

@@ -1,0 +1,6 @@
+quote
+@isPlaton
+Generate stickers from message.
+▫️ <code>.q</code> <b>[reply]</b>
+http://sharkuserbot.github.io/modules/MasterStroke777/quote/quote.py
+t.me/isPlaton

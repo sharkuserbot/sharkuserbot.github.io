@@ -1,0 +1,6 @@
+Now
+@WiseSlick
+Check now time.
+▫️ <code>.now</code>
+http://sharkuserbot.github.io/modules/WiseSlick/now/now.py
+t.me/WiseSlick

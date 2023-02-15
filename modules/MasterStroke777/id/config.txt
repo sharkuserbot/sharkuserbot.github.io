@@ -1,0 +1,6 @@
+ID
+@isPlaton
+Check id of chat or user.
+▫️ <code>.id</code>|▫️ <code>.id</code> <b>[reply]</b>
+https://sharkuserbot.github.io/modules/MasterStroke777/id/id.py
+t.me/isPlaton

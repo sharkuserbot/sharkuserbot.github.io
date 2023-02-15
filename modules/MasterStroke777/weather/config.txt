@@ -1,0 +1,6 @@
+Weather
+@isPlaton
+Check weather for week in city.
+▫️ <code>.weather</code> <b>[city]</b>
+https://sharkuserbot.github.io/modules/MasterStroke777/weather/weather.py
+t.me/isPlaton

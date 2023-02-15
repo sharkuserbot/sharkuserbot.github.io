@@ -1,0 +1,6 @@
+Speedtest
+@isPlaton
+Check your internet connection with speedtest.
+▫️ <code>.speedtest</code>
+https://sharkuserbot.github.io/modules/MasterStroke777/speedtest/speedtest.py
+t.me/isPlaton
