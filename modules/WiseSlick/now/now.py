@@ -8,9 +8,9 @@ import asyncio
 from pyrogram import Client , filters
 import requests , time
 import datetime
-from ..settings.main_settings import module_list, file_list
+from sharkub.settings.main_settings import module_list, file_list
 
-from ..settings.prefix import my_prefix
+from sharkub.settings.prefix import my_prefix
 prefix = my_prefix()
 
 @Client.on_message(filters.command("now", prefixes=prefix) & filters.me)
