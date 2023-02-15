@@ -1,4 +1,4 @@
-quote
+Quotes
 @isPlaton
 Generate stickers from message.
 ▫️ <code>.q</code> <b>[reply]</b>
