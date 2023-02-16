@@ -5,10 +5,10 @@
 # ---------------------------------------------------------------------------------
 
 from pyrogram import Client, filters
-from plugins.settings.main_settings import module_list, file_list
 import asyncio
+from sharkub.settings.main_settings import module_list, file_list
 
-from prefix import my_prefix
+from sharkub.settings.prefix import my_prefix
 prefix = my_prefix()
 
 
@@ -34,5 +34,7 @@ async def quotly(client, message):
             await asyncio.sleep(1)
 
 
-module_list['Quotes'] = f'{prefix}q [reply]'
-file_list['Quotes'] = 'quotes.py'
+module_list["Quotes"] = {
+"q [reply]": "Make a sticker from message",
+}
+file_list["Quotes"] = "squotes.py"
