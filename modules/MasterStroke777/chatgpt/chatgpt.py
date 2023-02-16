@@ -57,7 +57,7 @@ async def ii(client, message):
   except:
     await message.edit(f"Token is invalid, change it!\n<code>{prefix}gpt_token</code> <b>[Token]</b>")
     return
-  await message.edit(f'<b>ChatGPT:</b>{response["choices"][0]["text"]}') 
+  await message.edit(f'<b>ChatGPT:</b>{response["choices"][0]["text"]}\n\n<b><emoji id=5819167501912640906>❔</emoji> Your question to ChatGPT:</b> <i>{message.text[6:]}</i>') 
 
 @Client.on_message(filters.command('gpt_token', prefixes=prefix) & filters.me)
 async def gpt_token(client, message):
