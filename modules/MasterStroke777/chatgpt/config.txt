@@ -1,6 +1,6 @@
 ChatGPT
 @isPlaton
-Afk question in ChatGPT.
+Ask question in ChatGPT.
 ▫️ <code>.gpt</code> <b>[text]</b>|▫️ <code>.gpt_token</code> <b>[token]</b>|▫️<code>.gpt_img</code> <b>[text]</b>|▫️<code>.gpt_check</code> <b>[token]</b>
-https://sharkuserbot.github.io/modules/MasterStroke777/afk/afk.py
+https://sharkuserbot.github.io/modules/MasterStroke777/chatgpt/chatgpt.py
 t.me/isPlaton
