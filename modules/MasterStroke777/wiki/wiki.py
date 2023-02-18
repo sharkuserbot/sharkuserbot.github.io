@@ -10,7 +10,7 @@ prefix = my_prefix()
 async def wiki(client, message):
     lang = message.command[1]
     user_request = " ".join(message.command[2:])
-    await message.edit("<b>Searching info.../b>")
+    await message.edit("<b>Searching info...</b>")
     if user_request == "":
         wikipedia.set_lang("en")
         user_request = " ".join(message.command[1:])
