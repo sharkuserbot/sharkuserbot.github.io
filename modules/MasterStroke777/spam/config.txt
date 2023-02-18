@@ -1,0 +1,6 @@
+Spam
+@isPlaton
+Spam messages in chat.
+▫️ <code>.spam</code> <b>[amount] [text]</b>
+http://sharkuserbot.github.io/modules/MasterStroke777/spam/spam.py
+t.me/isPlaton
