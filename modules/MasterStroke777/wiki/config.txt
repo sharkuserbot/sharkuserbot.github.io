@@ -1,0 +1,6 @@
+Wikipedia
+@isPlaton
+Search information in wikipedia.
+▫️ <code>.wiki</code> <b>[RU/EN] [word]</b>
+http://sharkuserbot.github.io/modules/MasterStroke777/wiki/wiki.py
+t.me/isPlaton
