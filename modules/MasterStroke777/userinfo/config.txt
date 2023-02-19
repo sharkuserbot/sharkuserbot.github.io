@@ -1,0 +1,6 @@
+UserInfo
+@isPlaton
+Shows info of user.
+▫️ <code>.userinfo</code> <b>[reply/username/userid]</b>
+http://sharkuserbot.github.io/modules/MasterStroke777/userinfo/userinfo.py
+t.me/isPlaton
