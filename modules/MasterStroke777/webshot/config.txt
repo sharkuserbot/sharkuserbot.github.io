@@ -1,0 +1,6 @@
+Webshot
+@isPlaton
+Create a screenshot of page.
+▫️ <code>.webshot</code> <b>[link]</b>
+http://sharkuserbot.github.io/modules/MasterStroke777/webshot/webshot.py
+t.me/isPlaton
