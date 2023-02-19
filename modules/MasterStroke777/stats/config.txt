@@ -1,0 +1,6 @@
+Stats
+@isPlaton
+Get your account stats.
+▫️ <code>.stats</code>
+http://sharkuserbot.github.io/modules/MasterStroke777/stats/stats.py
+t.me/isPlaton
